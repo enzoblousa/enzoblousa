@@ -4,7 +4,7 @@
 
 **Systems Analysis and Development Student | Backend Developer**
 
-Systems Analysis and Development student at CEUB with a solid foundation in Software Engineering and a focus on backend development. Hands-on experience building REST APIs with .NET in a production environment.
+Systems Analysis and Development student at CEUB with a solid foundation in Software Engineering and a focus on backend development.
 
 Always looking to grow through new technologies and real-world problem solving.
 
